@@ -1,7 +1,7 @@
 # my-project 
 
 > A Vue.js project.
->一个简单的todo，包括省市区联动，组件的Tab切换    
+>一个简单的todo，包括省市区联动，组件的Tab切换 
 
 ## Build Setup
 
